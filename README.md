@@ -1,1 +1,1 @@
-This Project was made as a learning exercise as a part of my training in CSC(Computer Sciences Corp).
+This Project was developed as a learning exercise in my training at CSC(Computer Sciences Corp).

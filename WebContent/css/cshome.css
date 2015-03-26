@@ -1,0 +1,114 @@
+@media screen and (max-width: 320px) { @
+	viewport {
+		width: 320px;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 959px) { @
+	viewport {
+		width: 768px;
+	}
+}
+
+.container {
+	position: relative;
+	width: 100%;
+}
+
+.heading {
+	width: 100%;
+	background-color: deepskyblue;
+	position: fixed;
+	z-index: 1;
+}
+
+.nav {
+	position: fixed;
+	float: left;
+	margin-left: 2%;
+	margin-top: 5em;
+}
+
+section { /* position is static by default */
+	float: left;
+	margin-left: 35%;
+	margin-top: 5em;
+	margin-right: 2%;
+	width: 42%;
+	margin-bottom: 5em;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	padding: 1%;
+	background-color: deepskyblue;
+	width: 100%;
+	background-color: deepskyblue;
+}
+
+a.headerClicks {
+	text-decoration: none;
+	display: block;
+	padding: 1em;
+	color: white;
+}
+
+a.headerClicks:hover {
+	background: #00b7f5;
+}
+
+textarea {
+	resize: none;
+	word-wrap: break-word;
+	text-wrap: unrestricted;
+	min-height: 50px;
+	min-width: 400px;
+}
+
+#text {
+	display: inline-block;
+	border: solid 1px #000;
+	min-height: 200px;
+	width: 300px;
+}
+
+.tdbhome {
+	background: #FFF url('images_css/searchicon.png') no-repeat 2px 2px;
+	border: 1px solid #848484;
+	border-radius: 30px;
+	outline: 0;
+	padding-left: 20px;
+	padding-right: 10px;
+	width: 12em;
+	height: 20px;
+}
+
+.upstatus label {
+	display: block;
+}
+
+#intext {
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.tweetUserProfile {
+	text-decoration: none;
+	color: #1A63A2;
+}
+
+.tweetUserProfile:hover {
+	text-decoration: underline;
+	color: #82B5E1;
+}
+
+.countLinks {
+	text-decoration: none;
+	color: #207cca;
+}
+
+.countLinks:hover {
+	text-decoration: underline;
+	color: #82B5E1;
+}

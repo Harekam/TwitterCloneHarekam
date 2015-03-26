@@ -8,17 +8,17 @@ This Project was developed as a learning exercise in my training at CSC(Computer
 * Servlet Filter is used to handle session handling.
 * Explicit Exception handler is there to handle exceptions and errors.
 
-*Functional dependencies:
-    * The Project runs best on Google Chrome.
-    * The Driver name, IP, Port number and SID are specified in web.xml.
-*Technologies Used in the project:
-    * JSP v2.1
+* Functional dependencies:
+ * The Project runs best on Google Chrome.
+ * The Driver name, IP, Port number and SID are specified in web.xml.
+* Technologies Used in the project:
+ * JSP v2.1
     * Servlet v2.5
     * CSS
     * HTML
     * MVC2 Approach
     * Javascript
-*Requirements:
+* Requirements:
     * JDK 1.7 or lower
     * Tomcat Server v6.0
     * Oracle 10g XE or later

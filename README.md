@@ -1,4 +1,3 @@
-This Project was developed as a learning exercise in my training at CSC(Computer Sciences Corp).
 
 #PROJECT USP
 
